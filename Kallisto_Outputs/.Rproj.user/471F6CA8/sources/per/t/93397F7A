@@ -1,0 +1,28 @@
+{
+    "id": "93397F7A",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1707873781178.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "c8f68dec689e4e4cb9ced3fe396b121d",
+        "name": "Txi_gene",
+        "title": "Txi_gene",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 10798282640,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707873781178,
+    "read_only": false,
+    "read_only_alternatives": []
+}
